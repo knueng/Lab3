@@ -10,7 +10,7 @@
 	Sterke sider til Canvas: Canvas gir deg flere grafiske muligheter, og er mer tilgjengelig på ulike platformer.
 2)
 	
-Canvas gir siden interaktivt innhold, og gir brukeren mulighet til å tegne eller skrive i canvasen.
+Canvas er bitmap. Hver pixel kan få sin unike farge.
 	
 	
 x)
